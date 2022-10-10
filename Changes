@@ -1,0 +1,84 @@
+0.013   2022-09-15  Released-By: PERLANCAR; Urgency: medium
+
+        - [cli google-search] Add options --min-delay & --max-delay as
+          alternative to --delay.
+
+
+0.012   2022-08-12  Released-By: PERLANCAR; Urgency: medium
+
+        - [cli google-search][bugfix] Fix logic bug when checking time
+          period for type=map.
+
+
+0.011   2022-08-11  Released-By: PERLANCAR; Urgency: medium
+
+        - Add actions: save_html, print_result_link,
+          print_result_html_link, print_result_org_link.
+
+
+0.010   2022-08-11  Released-By: PERLANCAR; Urgency: medium
+
+        - [cli google-search] Add option: --queries-from.
+
+
+0.009   2022-08-11  Released-By: PERLANCAR; Urgency: low
+
+        - No functional changes.
+
+        - [doc][cli google-search] Add Description & some more examples.
+
+
+0.008   2022-08-11  Released-By: PERLANCAR; Urgency: high
+
+        [cli google-search]
+
+        - [bugfix] Fix comparison statement that broke things.
+
+        [documentation]
+
+        - [doc] Mention firefox-container and
+          App::FirefoxMultiAccountContainersUtils.
+
+
+0.007   2022-03-16  Released-By: PERLANCAR; Urgency: medium
+
+        - [cli google-search] Add options --time-{start,end,past}.
+
+
+0.006   2020-10-14  Released-By: PERLANCAR; Urgency: low
+
+	- No functional changes.
+
+	- [doc] Fix/add examples.
+
+	- [doc] Forgot to document --action.
+
+
+0.005   2020-10-14  Released-By: PERLANCAR; Urgency: medium
+
+	- Add options: --type (e.g. --image, --video, etc) and --action
+	  (--open-url, --print-url, --print-html-link, --print-org-link).
+
+
+0.004   2020-10-01  Released-By: PERLANCAR; Urgency: medium
+
+	- Add option: --delay.
+
+
+0.003   2020-10-01  Released-By: PERLANCAR; Urgency: medium
+
+	- Add options: --append, --prepend.
+
+
+0.002   2020-09-22  Released-By: PERLANCAR; Urgency: medium
+
+	[cli google-search]
+
+	- Accept multiple queries.
+
+        - [doc] Add examples.
+
+
+0.001   2018-01-13  Released-By: PERLANCAR
+
+        - First release.

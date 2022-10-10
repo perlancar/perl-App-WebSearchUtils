@@ -165,7 +165,7 @@ _
                                           brave
                                           ddg
                                       /]],
-            default => 'web',
+            default => 'google',
             cmdline_aliases => {
             },
         },
